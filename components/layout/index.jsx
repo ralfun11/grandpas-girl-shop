@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import TopBar from "./topBar";
+import TopBar from "./TopBar";
 
 const Layout = styled.div`
   width: 100vw;
